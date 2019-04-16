@@ -1,0 +1,33 @@
+.red {
+    color: red;
+    text-align: center;
+    font-size: 18px;
+}
+
+.class2 {
+    background-color:DodgerBlue;
+    border:2px Tomato;
+    border-style: groove
+}
+
+.margem {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+}
+
+.pad {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+
+.tam{
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
